@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Axiologisi
+comment1.params=
+comment1.target=Axiologisi()
+comment10.params=empeirognomonasPtr
+comment10.target=void\ setEmpeirognomonasPtr(Empeirognomonas)
+comment11.params=vathmos
+comment11.target=boolean\ orismosVathmologias(int)
+comment12.params=
+comment12.target=void\ ektyposiAxiologisis()
+comment2.params=vathmologia\ sxolia\ ergoPtr\ empeirognomonasPtr
+comment2.target=Axiologisi(int,\ java.lang.String,\ Ergo,\ Empeirognomonas)
+comment3.params=
+comment3.target=int\ getVathmologia()
+comment4.params=vathmologia
+comment4.target=void\ setVathmologia(int)
+comment5.params=
+comment5.target=java.lang.String\ getSxolia()
+comment6.params=sxolia
+comment6.target=void\ setSxolia(java.lang.String)
+comment7.params=
+comment7.target=Ergo\ getErgoPtr()
+comment8.params=ergoPtr
+comment8.target=void\ setErgoPtr(Ergo)
+comment9.params=
+comment9.target=Empeirognomonas\ getEmpeirognomonasPtr()
+numComments=13

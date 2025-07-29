@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EreunitikiProtasi
+comment1.params=
+comment1.target=EreunitikiProtasi()
+comment2.params=id\ onomasia\ perigrafi\ kostos\ ypopshfiosPtr\ arithmosMelonOmadas\ etiEreunitikisEmpeirias
+comment2.target=EreunitikiProtasi(int,\ java.lang.String,\ java.lang.String,\ float,\ Ypopshfios,\ int,\ int)
+comment3.params=
+comment3.target=int\ getArithmosMelonOmadas()
+comment4.params=arithmosMelonOmadas
+comment4.target=void\ setArithmosMelonOmadas(int)
+comment5.params=
+comment5.target=int\ getEtiEreunitikisEmpeirias()
+comment6.params=etiEreunitikisEmpeirias
+comment6.target=void\ setEtiEreunitikisEmpeirias(int)
+numComments=7
